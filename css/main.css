@@ -16,9 +16,24 @@ ul {
 .section {
   padding: 100px 0;
   background-image: url("https://sun9-36.userapi.com/impg/viIqR_dq5CwHJkP4-WctrxyXVu8NQN6I_4u6Zg/RxeXjAtAVmM.jpg?size=1280x854&quality=95&sign=99f6f38fd4f4011bb145aa3439fdaf3f&c_uniq_tag=U5EyvSLqlQf-Kk1WOk3QV0C9ifhb9fU-tfw46Mbd2YU&type=album");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.section-header {
+  background-image: url("https://sun9-36.userapi.com/impg/viIqR_dq5CwHJkP4-WctrxyXVu8NQN6I_4u6Zg/RxeXjAtAVmM.jpg?size=1280x854&quality=95&sign=99f6f38fd4f4011bb145aa3439fdaf3f&c_uniq_tag=U5EyvSLqlQf-Kk1WOk3QV0C9ifhb9fU-tfw46Mbd2YU&type=album");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+.section-content {
+  background-image: url("https://sun9-36.userapi.com/impg/viIqR_dq5CwHJkP4-WctrxyXVu8NQN6I_4u6Zg/RxeXjAtAVmM.jpg?size=1280x854&quality=95&sign=99f6f38fd4f4011bb145aa3439fdaf3f&c_uniq_tag=U5EyvSLqlQf-Kk1WOk3QV0C9ifhb9fU-tfw46Mbd2YU&type=album");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .list {
